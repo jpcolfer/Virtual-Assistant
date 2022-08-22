@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Virtual Assistant", "Virtual Assistant\Virtual Assistant.pyproj", "{90A9D605-F0BA-4080-B918-871AA00AC84E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90A9D605-F0BA-4080-B918-871AA00AC84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A9D605-F0BA-4080-B918-871AA00AC84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D3EDE1-9F9A-46B7-B78C-E7052DF14B60}
+	EndGlobalSection
+EndGlobal
